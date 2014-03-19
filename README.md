@@ -11,6 +11,9 @@ All credits go for Stanford AI Lab.
 
 ###Updates###
 
+1. Several assistant functions are updated [20140319]
+2. BP algorithm upated [20140319]
+
 ###Notes###
 
 ###Contacts###

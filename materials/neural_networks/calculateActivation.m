@@ -6,9 +6,9 @@ function next_A=calculateActivation(pre_A, W, b)
 % pre_A: previous layer's activation in R^{n}
 % W: Weights between previous layer and next layer in R^{m*n} (m is number
 % of next layer's nodes)
-% b: Bias of previous layer in R^{n}
+% b: Bias of previous layer in R^{m}
 
-z=W*pre_A+b;
+z=calculateZ(pre_A, W, b);
 
 next_A=sigmoidFunction(z);
 

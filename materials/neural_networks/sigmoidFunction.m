@@ -7,6 +7,6 @@ function y=sigmoidFunction(z)
 % ---Output---
 % y: the output of sigmoid function.
 
-y=1./(1+exp(-1*z));
+y=1.0 ./ (1.0+exp(-z));
 
 end
