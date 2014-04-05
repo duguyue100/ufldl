@@ -13,6 +13,7 @@ All credits go for Stanford AI Lab.
 
 1. Several assistant functions are updated [20140319]
 2. BP algorithm upated [20140319]
+3. Exercise:Sparse Autoencoder updated [20140405]
 
 ###Notes###
 
