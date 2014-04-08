@@ -13,10 +13,12 @@ All credits go for Stanford AI Lab.
 
 1. Several assistant functions are updated [20140319]
 2. BP algorithm upated [20140319]
-3. Exercise:Sparse Autoencoder updated [20140405]
-4. Exercise:Vectorization [20140405]
-5. Exercise:PCA in 2D [20140405]
-6. Exercise:PCA and Whitening [20140405]
+3. Exercise: Sparse Autoencoder updated [20140405]
+4. Exercise: Vectorization [20140405]
+5. Exercise: PCA in 2D [20140405]
+6. Exercise: PCA and Whitening [20140405]
+7. Exercise: Softmax Regression [20140408]
+8. Exercise: Self-Taught Learning [20140408]
 
 ###Notes###
 
